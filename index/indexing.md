@@ -78,6 +78,18 @@ https://youtu.be/k9K71QkrHGE?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2
 Kotlin - Complete Course From Scratch | CheezyCode Tutorial 0
 https://youtu.be/NosAkIKgA4Y?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
 
+Variables & Data Types in Kotlin Tutorial | var & val | CheezyCode
+https://youtu.be/bq-6IJ5-klk?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
+
+### Kotlin Tutorial
+- [ ] Kotlin for Beginners - Part 4 - VARIABLES
+- [ ] Kotlin for Beginners - Part 5 - BASIC DATA TYPES
+- [ ] Kotlin for Beginners - Part 6 - ARITHMETIC OPERATORS
+- [ ] Kotlin for Beginners - Part 8 - COMMENTS
+- [ ]
+- [ ]
+- [ ]
+
 
 
 
