@@ -71,6 +71,16 @@ https://youtu.be/K1iu1kXkVoA
 
 
 
+0 Kotlin Programming for Android: Beginners Tutorial [ FREE COURSE ] Overview
+https://youtu.be/VEqhzCFmEQI?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR
+Kotlin for Beginners - Part 1 - WHY LEARN KOTLIN?
+https://youtu.be/k9K71QkrHGE?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2
+Kotlin - Complete Course From Scratch | CheezyCode Tutorial 0
+https://youtu.be/NosAkIKgA4Y?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
+
+
+
+
 
 
 +
