@@ -1,3 +1,7 @@
+Rz Rasel Tutorial
+### Android Java Tutorial (MVVM)
+- [Model View View-Model (MVVM): Getting Started](https://youtu.be/ijXjCtCXcN4?list=PLgCYzUzKIBE-eHpqt44Ea-Mi_iAUkpOdq)
+- [MVVM / MVI Repository Pattern with Hilt](https://youtu.be/8vAQrgbh6YM)
 
 ### Android Java Tutorial (Room Database)
 - [Java Android Room Database | Insert and Query | RecyclerView Example - LearningWorldz](https://www.youtube.com/watch?v=ONb_MuPBBlg)
