@@ -2,6 +2,8 @@ Rz Rasel Tutorial
 ### Android Java Tutorial (MVVM)
 - [Model View View-Model (MVVM): Getting Started](https://youtu.be/ijXjCtCXcN4?list=PLgCYzUzKIBE-eHpqt44Ea-Mi_iAUkpOdq)
 - [MVVM / MVI Repository Pattern with Hilt](https://youtu.be/8vAQrgbh6YM)
+- [Android Data Binding with ViewModel LiveData, Retrofit, Recyclerview, Glide - Kotlin Tutorial](https://youtu.be/BkzOSB6kqYs)
+- [Data Binding with LiveData (Two-way & One-way) - Android Kotlin Tutorial](https://youtu.be/T-nQP9fidKU)
 
 ### Android Java Tutorial (Room Database)
 - [Java Android Room Database | Insert and Query | RecyclerView Example - LearningWorldz](https://www.youtube.com/watch?v=ONb_MuPBBlg)
