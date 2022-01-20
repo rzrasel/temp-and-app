@@ -58,3 +58,19 @@ https://youtu.be/wvtbl9kgeKs
 Android Kotlin Dagger2 Implementation using Retrofit2, MVVM, RecyclerView using GitHub API
 https://www.youtube.com/watch?v=_B0skaOiVCU
 https://api.github.com/search/repositories?q=android
+
+
+
+
+Building Movie App - REST API with MVVM and Retrofit2
+https://www.youtube.com/watch?v=3l4OShOR8jw
+Android Kotlin Dagger2 Implementation using Retrofit2, MVVM, RecyclerView using GitHub API.
+https://youtu.be/_B0skaOiVCU
+Generics In Java - Full Simple Tutorial
+https://youtu.be/K1iu1kXkVoA
+
+
+
+
+
++
