@@ -18,7 +18,21 @@
 - [Weather App with MVVM, Coroutine, LiveData, Retrofit 2 & Dagger-Hilt](https://youtu.be/IsrzPlEz7uM)
 
 
+- Android (MVVM) https://youtu.be/eAsniVT8lXs?list=PLRRNzqzbPLd906bPH-xFz9Oy2IcjqVWCH
+- ROOM Database - #1 Create Database Schema | Android Studio Tutorial https://youtu.be/lwAvI3WDXBY?list=PLSrm9z4zp4mEPOfZNV9O-crOhoMa0G2-o
+- Shared ViewModel - Explained | Android Studio Tutorial https://youtu.be/THt9QISnIMQ
+- Kotlin Andriod MVVM CURD APP Tutorial : Room + Coroutines + DataBinding + LiveData + ViewModel https://youtu.be/v2yocpEcE_g
 
+Weather App with MVVM, Coroutine, LiveData, Retrofit 2 & Dagger-Hilt
+https://www.youtube.com/watch?v=IsrzPlEz7uM
+Weather App - Kotlin - MVVM - Retrofit - API
+https://www.youtube.com/watch?v=jUsrJDqZ0HE
+Trending Movie Android Apps - Part 1 (MVVM + RxJava + Hilt + Retrofit + Moshi)
+https://youtu.be/ce5eH8zGWpI
+MVVM Movie App with Coroutine, LiveData, Retrofit 2 & Dagger-Hilt
+https://www.youtube.com/watch?v=mGziXLbKAy4
+MVVM Recipe Android App With Retrofit, Coroutines, LiveData, Safe Args, Dagger Hilt...
+https://www.youtube.com/watch?v=tofZ3YTR_zY
 
 
 Coroutines with Retrofit - Kotlin Coroutines
