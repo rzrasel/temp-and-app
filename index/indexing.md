@@ -82,6 +82,8 @@ Variables & Data Types in Kotlin Tutorial | var & val | CheezyCode
 https://youtu.be/bq-6IJ5-klk?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
 
 ### Kotlin Tutorial
+- [ ] Kotlin for Beginners - Part 3 - HELLO WORLD!
+- [ ] Kotlin - Hello World Program | Compilation & ByteCode | CheezyCode 3
 - [ ] Kotlin for Beginners - Part 4 - VARIABLES
 - [ ] Kotlin for Beginners - Part 5 - BASIC DATA TYPES
 - [ ] Kotlin for Beginners - Part 6 - ARITHMETIC OPERATORS
