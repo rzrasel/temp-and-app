@@ -8,6 +8,15 @@ Statically-Typed Programming Language:
 
 Function is a set of instructions to perform a specific task.
 
+জাভা ফাইল সরাসরি কম্পাইল হয়ে বাইটকোড .class ফাইল তৈরি করে। ঠিক একই ভাবে কটলিন ফাইল কটলিন কম্পাইলারের সাহায্য রানটাইমে .class ফাইল তৈরি করে।
+
+print() ও println() ফাংশন
+println(10 / 9) এ আউটপুট কি হবে?
+println(10.0 / 9) এ আউটপুট কি হবে?
+
+কোড কম্পাইলেশন
+কটলিন কোনো প্রজেক্টে একই সাথে কটলিন ফাইল ও জাভা ফাইল থাকতে পারে। তাহলে সেক্ষেত্রে প্রজেক্টটি কিভাবে রান করবে।
+
 
 ### Kotlin - Hello World Program | Compilation & ByteCode | CheezyCode #3
 https://youtu.be/IdeqQE_POXo?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
