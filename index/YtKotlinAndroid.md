@@ -16,7 +16,13 @@ Rz Rasel Tutorial
 - [Android Networking - Retrofit, OkHttp, Interceptors and JWT Token - MindOrks Course](https://youtu.be/tPIdWALEVLc)
 - [Learn RxJava - Lesson Demo - MindOrks Android Online Course For Professionals](https://youtu.be/zfDYK-xB1Uo)
 
+### Work Manager - Background works easier than ever in Android
+- [Work Manager - Background works easier than ever in Android](https://youtu.be/-prIcKMlrYQ)
+- [Android WorkManager Tutorial in Kotlin](https://youtu.be/HNYr1ay3yjo)
+- [Android WorkManager Example](https://youtu.be/Hrc7slbdTdM)
 
+### RxJava 3 tutorial for beginners - Part 1 - Observable and observer
+- [RxJava 3 tutorial for beginners - Part 1 - Observable and observer](https://youtu.be/7mbjhNCWqvs)
 
 
 
