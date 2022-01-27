@@ -1,0 +1,593 @@
+hello there and welcome back to my new
+
+video so in this video I'm going to
+
+introduce you with live data
+
+LiveData is a part of Android architecture components like ViewModel
+
+for example
+
+and if you haven't watched my video
+
+about view model I highly recommend you
+
+to do that before you continue because
+
+in this video we're going to use live
+
+data along with view model don't be
+
+scared if you haven't had any experience
+
+with Android architecture components
+
+they are pretty easy to learn so in this
+
+video you will see some practical
+
+examples of course but first we need to
+
+start with a theory
+
+
+------------------------------------------------>
+So what is a LiveData, LiveData is an observable data holder class.
+Unlike a regular observable.
+
+LiveData is a lifecycle aware meaning it respects the life cycle of other app components
+such as activities fragments or services and this awareness ensures.
+<------------------------------------------------
+------------------------------------------------>
+LiveData only updates app component observers that are in active lifecycle state.
+<------------------------------------------------
+
+State okay so let's stop for a moment to
+
+think about this definition what does it
+
+mean observable data whole class well
+
+that means that live data can be
+
+observed by other components for example
+
+like UI controllers which are
+
+essentially activities in fragments and
+
+live data is a lifecycle aware component
+
+that means that live data object will
+
+send updates to our observer activity in
+
+this case only if our activity is in
+
+active state if our
+
+
+------------------------------------------------>
+activity is paused or destroyed a LiveData object will not send updates.
+
+send updates instead it will just wait
+
+until our activity come back in active
+
+state and only then we are going to
+
+receive updates to our observer and
+
+that's the reason it's called the live
+
+data data that is aware of the lifecycle
+
+of its observer or activity in this case
+
+
+------------------------------------------------>
+generally LiveData delivers updates only when data changes and only to active observers an exception to
+
+this behavior is the observers also receive an update when they change from inactive to active state furthermore if
+
+the observer changes from inactive to
+
+active a second time it only receives an
+
+update
+
+the value has changed since the last
+
+time it became active okay so now I'm
+
+going to show you some practical
+
+examples with live data so here inside
+
+our activity main layout we have just a
+
+simple text view which represents a
+
+number and basically we're going to
+
+create a simple example of a countdown
+
+timer so before we start we need to add
+
+a dependency for a life cycle and
+
+viewmodel
+
+okay so you need to add the view model
+
+because we're going to use our live data
+
+along with a view model so next we're
+
+going to create a new class so this
+
+class will be a view model for our main
+
+activities so let's name this class main
+
+activity view model okay and our class
+
+will extend the view model so again if
+
+we haven't watched my video about view
+
+model I highly recommend you to do that
+
+before you continue so here we're going
+
+to create the one function start timer
+
+and we're going to create countdown
+
+timer object above and inside our method
+
+or function we're going to initialize
+
+this countdown timer so we need to pass
+
+two parameters the first parameter is
+
+the length of our countdown timer which
+
+is a 10 seconds and the second parameter
+
+is a countdown interval which is a 1
+
+second and we need to override the two
+
+methods on finish and the own tick so
+
+basically those two methods are self
+
+explanatory one tick method will be
+
+called and triggered every second and
+
+unfinished only when our countdown timer
+
+finishes ok so here we're going to
+
+create one new table live data object
+
+named seconds and basically the
+
+difference between a mutable live data
+
+and the simple life data is that data
+
+inside the mutable a via that can be
+
+assigned multiple times so you will see
+
+you later
+//////////////////////////////
+and here inside our own tick method
+
+we're going to create the one variable
+
+which will basically convert
+
+milliseconds into seconds so here we're
+
+taking this parameter P 0 and dividing
+
+by 1000 okay and we're going to set the
+
+value of our mutable live data to this
+
+new variable which represents the
+
+seconds okay so our immutable live data
+
+will be updated every time our own tick
+
+method is called and that is after every
+
+second and as you can see we're calling
+
+this value method to set the value to
+
+our mutable live data object
+
+and now we're going to call a start
+
+method to start our countdown timer and
+
+just below that we're going to create
+
+another function stop timer and
+
+basically we want to cancel our timer
+
+with this function okay so inside our
+
+main activity we want to initialize our
+
+view model call a view model provider
+
+and pass context then use a get method
+
+and pass main activity view model class
+
+so I just now noticed that there is a
+
+typo inside our main activity view model
+
+class but don't worry it's not important
+
+so as you can see inside our main
+
+activity we cannot access this mutable
+
+live data object because it is a private
+
+so we need to create a public function
+
+for that and we will create a live data
+
+at this time and we will return this
+
+mutable live data from above okay so
+
+this mutable live data should be only
+
+private to our view model okay and for a
+
+public purposes we will create this live
+
+data object and we're going to pass this
+
+live data function inside our main
+
+activity this time so now pass these
+
+seconds and called the observe method
+
+and you need to pass the owner and the
+
+second parameter is observer so
+
+basically now from our main activity we
+
+are observing our live data object and
+
+when the data is changed we want to set
+
+the text to our textview okay so it's
+
+simple as that and basically we are
+
+starting the timer before we observe so
+
+as you can see when we run our
+
+application because all our coding is
+
+inside our own create method the timer
+
+will start immediately and as you can
+
+see everything works fine so we're going
+
+to improve this example of furthermore
+
+and basically we are accessing live data
+
+a public lightweight a function instead
+
+of private mutable live data so next we
+
+want to create one more mutable live
+
+data object and this time it will be a
+
+type of a boolean and inside on finish
+
+method we want to set the value of this
+
+boolean mutable data to true
+
+so basically when our countdown timer is
+
+finished we want to set our finished
+
+mutable live data to true and we want to
+
+observe this live data object from our
+
+main activity as well so if our finished
+
+is true then we want to display at
+
+simple toast message
+
+finished so now let's run our
+
+application again to see how well that
+
+works and as you can see our countdown
+
+timer is working perfectly fine and when
+
+this reaches a zero we're going to see a
+
+simple toast message okay and there we
+
+go so that's working perfectly fine so
+
+basically from our main activity we are
+
+observing those mutable ability objects
+
+and everything works fine so we're going
+
+to improve this example of furthermore
+
+ok so inside our activity main layout I
+
+want to add one edit text and two
+
+buttons so I'm going to speed up this
+
+video just a little bit and one button
+
+will be for start and the second one for
+
+stop okay so let's connect those
+
+constraints and let me just change a few
+
+attributes here inside so let's set the
+
+ID for this edit X to number input the
+
+hint two milliseconds start button
+
+should be named start okay and the stop
+
+button should say stop okay and that's
+
+it so now inside our main activity I
+
+want to add their own click listener for
+
+our start and stop button okay so here
+
+inside our start button onclick listener
+
+I'm going to cut and paste this start
+
+timer function so basically we are going
+
+to start this start timer function from
+
+our start button on click listener and
+
+for our stop button we're going to
+
+reference this stop timer function and
+
+we're going to stop our timer so here
+
+inside our start button onclick listener
+
+we want to say if our number input text
+
+is empty or if number input text length
+
+is less than four then we're going to
+
+display toast message saying invalid
+
+number and in else block we want to
+
+start our timer and the inside of our
+
+main activity view model I want to
+
+create a new mutable live data object
+
+named the timer value and I'm going to
+
+set the value of this mutable live data
+
+from our main activity so let me just
+
+copy this name and paste here inside our
+
+countdown timer okay so instead of
+
+hard-coding the value of the first
+
+parameter I'm going to pass the value of
+
+this new mutable object object and here
+
+from our main activity I'm going to set
+
+the value of this timer value to our
+
+number input so
+
+we want to get the text from our number
+
+input and we want to set the value of
+
+our timer value okay so now lets me just
+
+check this so we have just one error
+
+okay so I forgot to say equals instead
+
+of a colon okay and everything works
+
+fine now okay let's run our application
+
+to check it out okay so here when I
+
+click start as you can see we can see
+
+this toast message saying invalid number
+
+and when I type a number less than four
+
+numbers it will say invalid number as
+
+well so only if I type one thousand
+
+which has a size of four numbers then it
+
+will work so now let me just type five
+
+thousand milliseconds and as you can see
+
+it works perfectly fine so let me just
+
+type here for example ten seconds click
+
+start and when we press stop as you can
+
+see the timer will stop so now
+
+everything works fine our live data
+
+objects are working perfectly fine with
+
+our view model so next what we can
+
+improve in this application we can also
+
+say so here inside our stop button
+
+onclick listener we can just set the
+
+text to our text view to zero when we
+
+press stop and now let's check it out
+
+again so let's tie for example 10
+
+seconds click start and when we press
+
+stop as you can see the timer stops and
+
+it resets and there it is so everything
+
+works perfectly fine and you saw how we
+
+can use a live data object to
+
+communicate between activity and view
+
+model everything works fine we can we
+
+can observe our live data objects
+
+through our main activity and everything
+
+works fine okay so let's conclude this
+
+video by listing some advantages of
+
+using live data so first live data
+
+ensures that your UI matches your data
+
+state so live data follows the observer
+
+pattern live data notifies observer
+
+objects when the lifecycle state changes
+
+and instead of updating the UI every
+
+time the application data changes your
+
+observer can update the UI every time
+
+there is a change
+
+next with live data there is no memory
+
+leaks so live data objects will clean up
+
+after themselves when their associated
+
+live
+
+cycle is destroyed next no crashes due
+
+to stopped activities and if the
+
+observers life cycle is inactive such as
+
+in the case of paused or destroyed
+
+activity then it doesn't receive any
+
+live data updates no more manual life
+
+cycle handling UI components just
+
+observe a relevant data and don't stop
+
+or resume observation live data
+
+automatically manages all of this since
+
+it's aware of the relevant life cycle
+
+status changes while observing live data
+
+is always up to date if a life cycle
+
+becomes inactive it receives the latest
+
+data upon becoming active again for
+
+example an activity that was in the
+
+background receives the latest data
+
+right after it returns to the foreground
+
+and the proper configuration changes if
+
+an activity or fragment is recreated due
+
+to a configuration change like device
+
+rotation it immediately receives the
+
+latest available data ok so that will be
+
+all for this video thanks for watching
+
+please like this video find it helpful
+
+of course and see the next one

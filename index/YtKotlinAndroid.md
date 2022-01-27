@@ -20,9 +20,25 @@ Rz Rasel Tutorial
 - [Work Manager - Background works easier than ever in Android](https://youtu.be/-prIcKMlrYQ)
 - [Android WorkManager Tutorial in Kotlin](https://youtu.be/HNYr1ay3yjo)
 - [Android WorkManager Example](https://youtu.be/Hrc7slbdTdM)
+- [Work Manager , Part 1 - Basics of WorkManager | Jetpack component](https://youtu.be/8RvI6CK4tII)
 
 ### RxJava 3 tutorial for beginners - Part 1 - Observable and observer
 - [RxJava 3 tutorial for beginners - Part 1 - Observable and observer](https://youtu.be/7mbjhNCWqvs)
+- [Learn RxJava - Lesson Demo - MindOrks Android Online Course For Professionals](https://youtu.be/zfDYK-xB1Uo)
+- [RxJava Android Tutorial : Learn Rx Java in 45 minutes](https://youtu.be/Y9fA80V25co)
+
+### Firebase Realtime Database
+- [Parsing Firebase Realtime Database - MVVM - Kotlin - 2021](https://youtu.be/V9XjJLJuKGo)
+- [Weather App with MVVM, Coroutine, LiveData, Retrofit 2 & Dagger-Hilt](https://youtu.be/IsrzPlEz7uM)
+- [Kotlin Andriod MVVM CURD APP Tutorial : Room + Coroutines + DataBinding + LiveData + ViewModel](https://youtu.be/v2yocpEcE_g)
+- [Android Jetpack Tutorial - Firebase, Room, MVVM, Navigation, LiveData, Kotlin Coroutines | 2019](https://youtu.be/0gFgdtTwFQM)
+- [Android MVVM Architecture - Java Tutorial(LiveData + RepositoryPattern) #01 Splash Screen](https://youtu.be/4nOQ_fpZxXQ)
+- [Async and Await - Kotlin Coroutines](https://youtu.be/t-3TOke8tq8)
+
+
+## Todo
+- [LiveData Explained - Android Architecture Component | Tutorial](https://youtu.be/suC0OM5gGAA)
+- [2021 Android Guide: Retrofit + Kotlin Coroutines = MVVM](https://youtu.be/DCglGiMI5Ps)
 
 
 
