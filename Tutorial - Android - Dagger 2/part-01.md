@@ -52,12 +52,7 @@ https://youtu.be/Grzqz-B3NWU
 Dagger 2 part 001 update - daggar 2 dependency injection 01
 
 
-#7 Android Login/Signup with MVVM - User Login
-https://youtu.be/lP8wtkHL49I
-Login and Sign Up App ( MVVM ) Firebase as Backend 2021 #androidstudio #androiddev
-https://youtu.be/iEzziRYaA6M
-Kotlin MVVM Login Design
-https://youtu.be/mK17CDNU-jI
+
 
 
 

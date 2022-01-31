@@ -42,5 +42,22 @@ Rz Rasel Tutorial
 
 
 
+#4 Android MVVM Architecture Tutorial - User Login using Retrofit
+https://youtu.be/1GBCg70G7cI
+Kotlin Android Tutorial - MVVM Design Patterns Login Validation
+https://youtu.be/0LaUXQcGuT0
+
+#7 Android Login/Signup with MVVM - User Login
+https://youtu.be/lP8wtkHL49I
+Login and Sign Up App ( MVVM ) Firebase as Backend 2021 #androidstudio #androiddev
+https://youtu.be/iEzziRYaA6M
+Kotlin MVVM Login Design
+https://youtu.be/mK17CDNU-jI
+
+#7 Android Login/Signup with MVVM - User Login
+https://www.youtube.com/watch?v=lP8wtkHL49I
+#8 Android Login/Signup with MVVM - Jetpack DataStore
+https://youtu.be/r2McC4-2CoI?list=RDCMUC9YTuDeKzDoyOphWHtdK0jA
+
 
 -
