@@ -1,0 +1,7 @@
+### Book Cover (Flyer design vector free download)
+- [Vecteezy Book Cover](https://www.vecteezy.com/vector-art/2253925-book-cover-design-abstract-book-cover-template-for-business-vector)
+- [Istockphoto Book Cover](https://www.istockphoto.com/vector/cover-design-template-corporate-business-annual-report-brochure-poster-company-gm1317886426-405184783?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=Eezy%2C%20LLC&clickid=R7XVjBzynxyIU3CyqoWOVyeCUkGy8LwVqUUT080&utm_term=www.vecteezy.com&utm_campaign=ADP_2_small&utm_content=1141997&irpid=38919)
+- [Istockphoto Book Cover](https://www.istockphoto.com/vector/cover-design-template-corporate-business-annual-report-brochure-poster-company-gm1317886426-405184783?irgwc=1&cid=IS&utm_medium=affiliate&utm_source=Eezy%2C%20LLC&clickid=R7XVjBzynxyIU3CyqoWOVyeCUkGy8LwVqUUT080&utm_term=www.vecteezy.com&utm_campaign=ADP_2_small&utm_content=1141997&irpid=38919)
+- [Freepik Book Cover](https://www.freepik.com/free-photos-vectors/book)
+- [Freepik Book Cover](https://www.freepik.com/free-psd/hard-cover-books-arrangement_20286656.htm#query=book&position=23&from_view=keyword)
+- [Freepik Book Cover](https://www.freepik.com/free-psd/book-mockup-with-shadow-overlay_21092086.htm#&position=3&from_view=detail#&position=3&from_view=detail)
