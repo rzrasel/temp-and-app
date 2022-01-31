@@ -41,6 +41,7 @@ Sunday January 23, 2022, 12:05:33
 কিন্তু ড্যাগার ২ ডিপেন্ডেন্সি ইঞ্জেকশন প্রভাইডার জন্য এখন আগের থেকে অনেক বেশি স্ট্যাবল। রিফ্লেকশন ইউজ না করায় প্রায় সমস্ত কোড কম্পাইল টাইমেই পাওয়া যায়। এখানে আগের মতোই এনটেশন প্রসেসর ইউজ করে। আর তা ছাড়াও ডিপেন্ডেন্সি ইঞ্জেকশনের কারণে যে কোড জেনেরেট করে তাও সহজবোধ্য।
 
 
+
 Dagger 2 Tutorial Part 1 | What is dependency injection in Hindi (2020) | Android Studio Tutorial
 https://youtu.be/9qerii7OiJI?list=PLBF0Hb1Nl6I8ZFcVY63u1XUsLYxfntn3l
 
@@ -50,6 +51,13 @@ https://youtu.be/Grzqz-B3NWU
 
 Dagger 2 part 001 update - daggar 2 dependency injection 01
 
+
+#7 Android Login/Signup with MVVM - User Login
+https://youtu.be/lP8wtkHL49I
+Login and Sign Up App ( MVVM ) Firebase as Backend 2021 #androidstudio #androiddev
+https://youtu.be/iEzziRYaA6M
+Kotlin MVVM Login Design
+https://youtu.be/mK17CDNU-jI
 
 
 
