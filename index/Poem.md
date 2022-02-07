@@ -1,0 +1,11 @@
+### Mobile App:
+- [ছোটদের ছড়া ও কবিতা ~ Kids Poem And Rhyme](https://play.google.com/store/apps/details?id=childrensbook.reader)
+- [ছোটদের বাংলা শেখা - Bangla Kids Learning App](https://play.google.com/store/apps/details?id=com.rks.preschoolbengali)
+- [ছোটদের ছড়া ও কবিতা - kids bengali Rhymes Lite](https://play.google.com/store/apps/details?id=com.rksmobile.bengalirhymeslite&hl=en_US&gl=US)
+- [সোনামণিদের ছড়া কবিতা - অডিওসহ](https://play.google.com/store/apps/details?id=com.shamim.sonamoniderchora)
+- [ছোটদের ছড়া ও খেলা -Bangla kids Learning App](https://play.google.com/store/apps/details?id=overflow.peoem)
+- [বাংলা ছড়া ও কবিতা আবৃত্তি](https://play.google.com/store/apps/details?id=com.dd.chotoderchora)
+- []()
+- []()
+- []()
+- []()
