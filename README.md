@@ -17,6 +17,7 @@ git commit -m "Add Readme & Git Commit File"
 git pull
 git push --all
 git status
+git remote show origin
 git status
 ```
 
