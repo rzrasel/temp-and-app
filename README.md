@@ -25,7 +25,7 @@ git status
 echo date("D", (time() + 6 * 60 * 60)) . "day " . date("F j, Y, G:i:s", (time() + 6 * 60 * 60));
 ```
 
-
+https://stackoverflow.com/questions/30748636/android-adrequest-returns-only-onadfailedtoload-adrequest-error-code-no-fill
 
 
 
